@@ -106,7 +106,7 @@ h6 {
 
 p {
 	color: #5f6061;
-    font-size: 1.1em;
+    font-size: 2em;
     line-height: 1.6em;
 }
 
@@ -167,13 +167,13 @@ display: none!important;
 
 .form-notify h2
 {
-	font-size:1.2em;
+	font-size:1.8em;
 	font-weight:700;
 	display:block;	
 	letter-spacing:.5em;
 	margin-bottom: 2%;
     text-transform: uppercase;
-	color:#0c59d8;
+	color:#fff;
 }
 
 .counter-logo {
@@ -200,7 +200,7 @@ display: none!important;
 
 
 .notify-button {
-	background: none repeat scroll 0 0 #0c59d8;
+	background: none repeat scroll 0 0 #6e83a0;
     color: #fff;
 	height:3.5em;
 	border: 0 none;
@@ -216,7 +216,7 @@ display: none!important;
 }
 
 #notifyMe button:focus{
-	background: none repeat scroll 0 0 #0c59d8;
+	background: none repeat scroll 0 0 #6e83a0;
     color: #fff;
 }
 #notifyMe #message {
@@ -224,7 +224,7 @@ display: none!important;
 }
 
 .notify-button:hover {
-	background: none repeat scroll 0 0 #0c59d8;
+	background: none repeat scroll 0 0 #6e83a0;
 	border: 1px solid #0c59d8;
 	color: #fff;
 } 
@@ -496,13 +496,13 @@ ul.social-buttons li:last-child {
 }
 
 .social-btn i{
-	font-size:1.2em;
+	font-size:2.4em;
 	line-height:inherit;
 }
 
 .social-btn:hover,
 .social-btn:focus {
-	background: #0c59d8;
+	background: #6e83a0;
 	color: #fff;
 }
 
@@ -557,7 +557,7 @@ blockquote p{
 }
 
 #get_directions.btn-effect {
-	background: none repeat scroll 0 0 #0c59d8;
+	background: none repeat scroll 0 0 #6e83a0;
     border: medium none;
     color: #fff;
     cursor: pointer;
@@ -573,7 +573,7 @@ blockquote p{
 }
 
 #get_directions.btn-effect:after {
-	background: none repeat scroll 0 0 #000;
+	background: none repeat scroll 0 0 #586d87;
 	height: 0;
 	left: 0;
 	top: 0;
@@ -700,7 +700,7 @@ blockquote p{
 .nl-form {
 	width: 100%;
 	margin: 6% auto;
-	font-size: 2.5em;
+	font-size: 2.2em;
 	color: #212739;
 	line-height: 1.9;
 	text-align: center;
@@ -735,7 +735,7 @@ blockquote p{
 .nl-field-toggle, .nl-form input, .nl-form select {
 	line-height: inherit;
 	display: inline-block;
-	color: #0c59d8;
+	color: #6e83a0;
 	cursor: pointer;
 	border-bottom: 1px dashed #567a69;
 }
@@ -760,7 +760,7 @@ blockquote p{
 }
 
 .nl-form .nl-submit {
-	 background: none repeat scroll 0 0 #0c59d8;
+	 background: none repeat scroll 0 0 #6e83a0;
     color: #fff;
     cursor: pointer;
     font-size: 0.4em;
@@ -833,7 +833,7 @@ blockquote p{
 }
 
 .nl-dd ul li.nl-dd-checked {
-	color: #0c59d8;
+	color: #6e83a0;
 }
 
 .no-touch .nl-dd ul li:hover {
@@ -855,7 +855,7 @@ blockquote p{
 	font-variant: normal;
 	text-transform: none;
 	-webkit-font-smoothing: antialiased;
-	color: #0c59d8;
+	color: #6e83a0;
 }
 
 .nl-ti-text ul {
@@ -974,7 +974,7 @@ a {
 .md-content h3 {
 	margin: 0;
 	text-align: center;
-	color: #1bce7c;
+	color: #7196cc;
     font-size: 0.8em;
     letter-spacing: 0.2em;
     text-transform: uppercase;
@@ -1015,17 +1015,17 @@ a {
 	background-color: transparent;
 	border: none;
 	cursor: pointer;
-	color: #0c59d8;
+	color: #91a8d0;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
 	-o-transition: all 0.5s;
 	transition: all 0.5s;
-	font-size: 1em;
+	font-size: 1.6em;
 
 }
 
 .md-trigger:hover {
-	color: #0c59d8;
+	color: #fff;
 }
 
 .md-effect-10.md-modal {
@@ -1151,7 +1151,7 @@ a {
 }
 
 .contact-details h2 span {
-	color: #0c59d8;
+	color: #6e83a0;
     display: block;
     font-size: 0.8em;
     font-weight: 600;
@@ -1161,7 +1161,7 @@ a {
 }
 
 .contact-wrap {
-	background-color: #0c040f;
+	background-color: #91a8d0;
 	position: relative;
 }
 
@@ -1185,16 +1185,16 @@ a {
 }
 
 .light-box {
-	-webkit-box-shadow: 0px -1px 0px 0px #ff1d8d;
-	-moz-box-shadow: 0px -1px 0px 0px #ff1d8d;
-	box-shadow: 0px -1px 0px 0px #ff1d8d;
+	-webkit-box-shadow: 0px -1px 0px 0px #7196cc;
+	-moz-box-shadow: 0px -1px 0px 0px #7196cc;
+	box-shadow: 0px -1px 0px 0px #7196cc;
 	padding: 20px 0;
 }
 
 .light-box:hover, .light-box:focus {
-	-webkit-box-shadow: 0px 5px 0px 0px #ff1d8d;
-	-moz-box-shadow: 0px 5px 0px 0px #ff1d8d;
-	box-shadow: 0px 5px 0px 0px #ff1d8d;
+	-webkit-box-shadow: 0px 5px 0px 0px #7196cc;
+	-moz-box-shadow: 0px 5px 0px 0px #7196cc;
+	box-shadow: 0px 5px 0px 0px #7196cc;
 }
 
 .box-hover {
@@ -1221,7 +1221,7 @@ footer a {
 }
 
 footer {
-	background-color: #000;
+	background-color: #6e83a0;
     padding: 25px 0;
 }
 
@@ -1481,4 +1481,8 @@ margin-bottom:14%;
 .section-padding {
 padding-top:12%;
 }
+}
+
+.mark{
+	margin-top: 39px;
 }
