@@ -28,7 +28,7 @@ jQuery(window).load(function() {
 /**********************************/	
   var austDay = new Date();
   //Set counter date
-  austDay =  new Date(2016,6,25);
+  austDay =  new Date(2016,5,25);
   jQuery('#defaultCountdown').countdown({
 	until: austDay, padZeroes: true,format: 'DHMS'});
   jQuery('#year').text(austDay.getFullYear());
